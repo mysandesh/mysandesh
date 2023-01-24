@@ -16,7 +16,6 @@ Feel free to connect and message me.
 
 [![Resume](https://img.shields.io/badge/resume-mysandesh-blue)](https://mysandesh.github.io/resume/)
 [![GitHub](https://img.shields.io/github/followers/mysandesh?label=follow&style=social)](https://github.com/mysandesh) 
-[![Linkedin](https://img.shields.io/badge/-sandeshacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acharya-sandesh/)](https://www.linkedin.com/in/acharya-sandesh/) 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/21071933)](https://stackoverflow.com/users/21071933/mysandesh) 
 
 #### &#x270d; Writing
