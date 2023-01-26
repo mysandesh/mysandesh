@@ -1,4 +1,4 @@
-### Hey, Welcome 👋
+### Hey, You are Welcome!
 
 My name is Sandesh Acharya.
 
