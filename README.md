@@ -26,10 +26,10 @@ Feel free to connect and message me.
 #### &#128295; Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white&color=2bbc8a) 
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white&color=2bbc8a) 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) 
@@ -42,9 +42,16 @@ Feel free to connect and message me.
 
 #### &#x1f4c8; Github Stats
 
+<p>
 <a href="https://github.com/mysandesh">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysandesh&hide=c,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysandesh&show_icons=true&cache_seconds=1800&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/mysandesh">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysandesh&show_icons=true&cache_seconds=1800&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysandesh&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=c,php,html&layout=compact&langs_count=8&theme=dracula"/>
 </a>
+</p>
+<p>
+  <a href="https://github.com/mysandesh">
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
+ </a>
+</p>
