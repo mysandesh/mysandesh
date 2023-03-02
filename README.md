@@ -44,12 +44,12 @@ Feel free to connect and message me.
 
 <p>
 <a href="https://github.com/mysandesh">
-  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysandesh&show_icons=true&cache_seconds=1800&line_height=26&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
+  <img height="180em" width="420em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysandesh&show_icons=true&line_height=26&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/mysandesh">
-  <img height="180em" width="380em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysandesh&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=c,php,html&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysandesh&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=c,php&layout=compact&langs_count=8&theme=dracula"/>
 </a>
   <a href="https://github.com/mysandesh">
-  <img height="228em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
+  <img height="225em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
  </a>
 </p>
