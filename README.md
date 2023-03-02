@@ -49,9 +49,7 @@ Feel free to connect and message me.
 <a href="https://github.com/mysandesh">
   <img height="180em" width="380em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysandesh&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=c,php,html&layout=compact&langs_count=8&theme=dracula"/>
 </a>
-</p>
-<p>
   <a href="https://github.com/mysandesh">
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
+  <img height="228em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
  </a>
 </p>
