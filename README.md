@@ -53,6 +53,6 @@ Feel free to connect and message me.
   <img height="225em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
  </a>
    <a href="https://github.com/mysandesh">
-  <img width="788em" src="https://github-readme-streak-stats.herokuapp.com/?user=mysandesh&theme=dracula&hide_border=false" alt="mysandesh"/>
+  <img width="788em" src="https://github-readme-streak-stats.herokuapp.com/?user=mysandesh&theme=dracula&hide_border=true" alt="mysandesh"/>
  </a>
 </p>
