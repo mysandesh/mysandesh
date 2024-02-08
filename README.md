@@ -26,6 +26,7 @@ Feel free to connect and message me.
 #### &#128295; Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
+![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) 
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 ![Next.js](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a) 
@@ -42,7 +43,7 @@ Feel free to connect and message me.
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a) 
 ![GCP](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a) 
 ![Heroku](https://img.shields.io/badge/DevOps-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a) 
-![CircleCI](https://img.shields.io/badge/DevOps-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a) 
+![GitHub Actions](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a) 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 
 #### &#x1f4c8; Github Stats
