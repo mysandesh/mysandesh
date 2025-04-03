@@ -50,7 +50,7 @@ Feel free to connect and message me.
 
 <p>
 <a href="https://github.com/mysandesh">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysandesh&show_icons=true&line_height=24&card_width=322&card_height=170&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysandesh&layout=compact&hide_border=true&hide=c%2B%2B,c&&langs_count=8&show_icons=true&card_width=290&card_height=236&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysandesh&show_icons=true&line_height=24&card_width=322&card_height=170&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysandesh&layout=compact&hide_border=true&hide=c%2B%2B,c&&langs_count=8&show_icons=true&card_width=294&card_height=236&theme=dracula" />
 </a>
   <a href="https://github.com/mysandesh">
   <img height="225em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysandesh&theme=dracula" alt="mysandesh"/>
