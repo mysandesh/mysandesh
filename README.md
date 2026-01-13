@@ -1,15 +1,10 @@
-### Hey, You are Welcome!
-
-My name is Sandesh Acharya.
+<h1 align="left">Hi 👋, I'm Sandesh Acharya</h1>
+<h3 align="left">Full-Stack Software Developer | Startup & Remote-First</h3>
 
 <details>
   <summary>Click to read more about me!</summary>
-  
-I code in JavaScript and Python.
-
-My github profile is at https://github.com/mysandesh.
-  
-Feel free to connect and message me.
+</br>
+  <p>I design, build, and scale end-to-end web applications with a strong focus on clean architecture, performance, and real-world impact. I enjoy turning complex problems into elegant, maintainable solutions and collaborating with teams that value quality and growth.</p>
 </details>
 
 #### &#127760; Social
@@ -18,10 +13,16 @@ Feel free to connect and message me.
 [![GitHub](https://img.shields.io/github/followers/mysandesh?label=follow&style=social)](https://github.com/mysandesh) 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/21071933)](https://stackoverflow.com/users/21071933/mysandesh) 
 
-#### &#x270d; Writing
+---
 
-- [Personal Blog](https://acharyasandesh.com.np)
+## 🚀 About Me
 
+I’m a **startup-oriented Full-Stack Software Developer** who enjoys building **real-world, production-ready applications**.  
+I thrive in **remote-first environments** where ownership, speed, and product thinking matter.
+
+I’m comfortable taking ideas from **concept → MVP → scale**, collaborating async with cross-functional teams, and shipping features that actually create impact.
+
+---
 
 #### &#128295; Technologies & Tools
 
@@ -46,6 +47,39 @@ Feel free to connect and message me.
 ![GitHub Actions](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a) 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 
+## 🧠 How I Work
+
+- 🧩 **Product-first mindset** — users, metrics, and business impact matter
+- 🏗 **Ownership-driven** — from architecture to deployment
+- 🌍 **Remote-ready** — async communication, clean commits, documentation
+- ⚡ **Fast iteration** — MVP mindset, ship early, improve continuously
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)
+
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
 #### &#x1f4c8; Github Stats
 
 <p>
@@ -59,3 +93,26 @@ Feel free to connect and message me.
   <img width="788em" src="https://github-readme-streak-stats.herokuapp.com/?user=mysandesh&theme=dracula&hide_border=true" alt="mysandesh"/>
  </a>
 </p>
+
+---
+
+## 🌍 Open To
+
+- ✅ Remote full-time roles  
+- 🚀 Early-stage & growth-stage startups  
+- 🤝 Contract / freelance product work  
+- 🌱 Open-source collaboration
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: [github.com/mysandesh](https://github.com/mysandesh)
+
+If you’re building something meaningful and need someone who can **ship fast, think end-to-end, and own features**, let’s talk 🚀
+
+---
+
+#### &#x270d; Writing
+
+- [Personal Blog](https://acharyasandesh.com.np)
