@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 I’m a **startup-oriented Full-Stack Software Developer** who enjoys building **real-world, production-ready applications**.  
 I thrive in **remote-first environments** where ownership, speed, and product thinking matter.
@@ -47,7 +47,7 @@ I’m comfortable taking ideas from **concept → MVP → scale**, collaborating
 ![GitHub Actions](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a) 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 
-## 🧠 How I Work
+#### 🧠 How I Work
 
 - 🧩 **Product-first mindset** — users, metrics, and business impact matter
 - 🏗 **Ownership-driven** — from architecture to deployment
@@ -56,23 +56,23 @@ I’m comfortable taking ideas from **concept → MVP → scale**, collaborating
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 
-### Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
 
-### Mobile
+#### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)
 
-### Databases & DevOps
+#### Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
@@ -96,7 +96,7 @@ I’m comfortable taking ideas from **concept → MVP → scale**, collaborating
 
 ---
 
-## 🌍 Open To
+#### 🌍 Open To
 
 - ✅ Remote full-time roles  
 - 🚀 Early-stage & growth-stage startups  
@@ -105,7 +105,7 @@ I’m comfortable taking ideas from **concept → MVP → scale**, collaborating
 
 ---
 
-## 📫 Let’s Connect
+#### 📫 Let’s Connect
 
 - GitHub: [github.com/mysandesh](https://github.com/mysandesh)
 
