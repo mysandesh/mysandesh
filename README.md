@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sandesh Acharya</h1>
-<h3 align="left">Full-Stack Software Developer | Startup & Remote-First</h3>
+<h3 align="left">Full-Stack Software Developer | Product-Focused & Remote-Ready</h3>
 
 <details>
   <summary>Click to read more about me!</summary>
@@ -17,10 +17,9 @@
 
 ### 🚀 About Me
 
-I’m a **startup-oriented Full-Stack Software Developer** who enjoys building **real-world, production-ready applications**.  
-I thrive in **remote-first environments** where ownership, speed, and product thinking matter.
+I’m a **Full-Stack Software Developer** who builds **reliable, scalable, and maintainable applications** used in real-world environments. I enjoy working in **collaborative, cross-functional teams** and contributing to products that balance **engineering excellence with business impact**. I thrive in **remote-first environments** where ownership, speed, and product thinking matter.
 
-I’m comfortable taking ideas from **concept → MVP → scale**, collaborating async with cross-functional teams, and shipping features that actually create impact.
+I’m comfortable taking ideas from **concept → MVP → scale**, while owning features end-to-end, improving existing systems, and writing clean, well-documented code that teams can confidently build on.
 
 ---
 
@@ -49,13 +48,24 @@ I’m comfortable taking ideas from **concept → MVP → scale**, collaborating
 
 #### 🧠 How I Work
 
-- 🧩 **Product-first mindset** — users, metrics, and business impact matter
+- 🧩 **Engineering-first mindset** — clean architecture, performance, maintainability  
+- 🤝 **Team-oriented** — clear communication, thoughtful PRs, and collaboration  
 - 🏗 **Ownership-driven** — from architecture to deployment
 - 🌍 **Remote-ready** — async communication, clean commits, documentation
 - ⚡ **Fast iteration** — MVP mindset, ship early, improve continuously
+- 🔁 **Continuous improvement** — refactoring, testing, and incremental enhancements
 
 ---
+#### 💡My Engineering Philosophy
 
+I bridge elegant interfaces with robust systems, focusing on:
+
+- **User-Centric Development:** Building intuitive experiences that solve real problems
+- **Clean Architecture:** Writing maintainable, testable code that scales
+- **Performance by Design:** Optimizing from database queries to frontend rendering
+- **DevOps Mindset:** Automating deployment pipelines for reliable delivery
+
+---
 ### 🛠 Tech Stack
 
 #### Frontend
@@ -99,7 +109,7 @@ I’m comfortable taking ideas from **concept → MVP → scale**, collaborating
 #### 🌍 Open To
 
 - ✅ Remote full-time roles  
-- 🚀 Early-stage & growth-stage startups  
+- 🚀 Product-focused engineering teams  
 - 🤝 Contract / freelance product work  
 - 🌱 Open-source collaboration
 
